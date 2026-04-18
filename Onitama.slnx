@@ -1,4 +1,7 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Parabox.Stl.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Parabox.Stl.Test.csproj" />
+  <Project Path="Parabox.Stl.Editor.csproj" />
 </Solution>
